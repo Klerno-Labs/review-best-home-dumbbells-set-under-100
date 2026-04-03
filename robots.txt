@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-best-home-dumbbells-set-under-100/sitemap.xml
